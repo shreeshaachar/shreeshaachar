@@ -33,3 +33,8 @@ This repository contains my academic work, programming exercises, development en
 ## Purpose
 
 The purpose of this repository is to document my learning journey, maintain practical assignments, and showcase my development skills throughout my B.Tech CSE program.
+
+
+## Projects
+
+- **CSE Development Portfolio:** A GitHub repository documenting my development environment setup, Git activities, and programming progress.
